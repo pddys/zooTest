@@ -1,0 +1,53 @@
+* {
+	font-family: sans-serif;
+}
+
+/*Selectors
+html tags, classes, ids
+Pseudo classes
+:hover, :focus, first-of-type
+What can we style? Positioning, colours, borders, thickness, fonts, sizes*/
+
+
+header {
+	background-color: #211A1D;
+	color: #ffffff;
+	width: 100%;
+	height: 100px;
+}
+
+header ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+main {
+	padding: 20px;
+	background-color: #F8F0FB;
+}
+
+img {
+	border: 5px solid #8075FF;
+}
+
+h1, h2, h3, h4, h5 {
+	/*Purple*/
+	color: #6320EE;
+}
+
+h1 {
+	font-size: 4.5em;
+}
+
+h2 {
+	font-size: 3em;
+}
+
+h3 {
+	font-size: 2em;
+}
+
+.giraffe {
+	background-color: #CAD5CA;
+}
+
